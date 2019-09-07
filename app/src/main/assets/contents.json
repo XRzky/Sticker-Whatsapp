@@ -1,0 +1,371 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Tahilalats Dailystrip",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Tahilalats.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Tahilalats.webp"}, {"image_file": "02_Tahilalats.webp"}, {"image_file": "03_Tahilalats.webp"}, {"image_file": "04_Tahilalats.webp"}, {"image_file": "05_Tahilalats.webp"},
+        {"image_file": "06_Tahilalats.webp"}, {"image_file": "07_Tahilalats.webp"}, {"image_file": "08_Tahilalats.webp"}, {"image_file": "09_Tahilalats.webp"}, {"image_file": "10_Tahilalats.webp"},
+        {"image_file": "11_Tahilalats.webp"}, {"image_file": "12_Tahilalats.webp"}, {"image_file": "13_Tahilalats.webp"}, {"image_file": "14_Tahilalats.webp"}, {"image_file": "15_Tahilalats.webp"},
+        {"image_file": "16_Tahilalats.webp"}, {"image_file": "17_Tahilalats.webp"}, {"image_file": "18_Tahilalats.webp"}, {"image_file": "19_Tahilalats.webp"}, {"image_file": "20_Tahilalats.webp"},
+		{"image_file": "21_Tahilalats.webp"}, {"image_file": "22_Tahilalats.webp"}, {"image_file": "23_Tahilalats.webp"}, {"image_file": "24_Tahilalats.webp"}, {"image_file": "25_Tahilalats.webp"}
+      ]
+    },{
+      "identifier": "2",
+      "name": "Si Tengil",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_SiTengil.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_SiTengil.webp"}, {"image_file": "02_SiTengil.webp"}, {"image_file": "03_SiTengil.webp"}, {"image_file": "04_SiTengil.webp"}, {"image_file": "05_SiTengil.webp"},
+        {"image_file": "06_SiTengil.webp"}, {"image_file": "07_SiTengil.webp"}, {"image_file": "08_SiTengil.webp"}, {"image_file": "09_SiTengil.webp"}, {"image_file": "10_SiTengil.webp"},
+        {"image_file": "11_SiTengil.webp"}, {"image_file": "12_SiTengil.webp"}, {"image_file": "13_SiTengil.webp"}, {"image_file": "14_SiTengil.webp"}, {"image_file": "15_SiTengil.webp"},
+        {"image_file": "16_SiTengil.webp"}, {"image_file": "17_SiTengil.webp"}, {"image_file": "18_SiTengil.webp"}, {"image_file": "19_SiTengil.webp"}, {"image_file": "20_SiTengil.webp"},
+        {"image_file": "21_SiTengil.webp"}, {"image_file": "22_SiTengil.webp"}, {"image_file": "23_SiTengil.webp"}, {"image_file": "24_SiTengil.webp"}
+      ]
+    },{
+      "identifier": "3",
+      "name": "Si Tengil 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_SiTengil2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_SiTengil2.webp"}, {"image_file": "02_SiTengil2.webp"}, {"image_file": "03_SiTengil2.webp"}, {"image_file": "04_SiTengil2.webp"}, {"image_file": "05_SiTengil2.webp"},
+        {"image_file": "06_SiTengil2.webp"}, {"image_file": "07_SiTengil2.webp"}, {"image_file": "08_SiTengil2.webp"}, {"image_file": "09_SiTengil2.webp"}, {"image_file": "10_SiTengil2.webp"},
+        {"image_file": "11_SiTengil2.webp"}, {"image_file": "12_SiTengil2.webp"}, {"image_file": "13_SiTengil2.webp"}, {"image_file": "14_SiTengil2.webp"}, {"image_file": "15_SiTengil2.webp"},
+        {"image_file": "16_SiTengil2.webp"}, {"image_file": "17_SiTengil2.webp"}, {"image_file": "18_SiTengil2.webp"}, {"image_file": "19_SiTengil2.webp"}, {"image_file": "20_SiTengil2.webp"},
+        {"image_file": "21_SiTengil2.webp"}, {"image_file": "22_SiTengil2.webp"}, {"image_file": "23_SiTengil2.webp"}, {"image_file": "24_SiTengil2.webp"}
+      ]
+    },{
+      "identifier": "4",
+      "name": "Si Bangkawarah",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_SiBangkawarah.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_SiBangkawarah.webp"}, {"image_file": "02_SiBangkawarah.webp"}, {"image_file": "03_SiBangkawarah.webp"}, {"image_file": "04_SiBangkawarah.webp"}, {"image_file": "05_SiBangkawarah.webp"},
+        {"image_file": "06_SiBangkawarah.webp"}, {"image_file": "07_SiBangkawarah.webp"}, {"image_file": "08_SiBangkawarah.webp"}, {"image_file": "09_SiBangkawarah.webp"}, {"image_file": "10_SiBangkawarah.webp"},
+        {"image_file": "11_SiBangkawarah.webp"}, {"image_file": "12_SiBangkawarah.webp"}, {"image_file": "13_SiBangkawarah.webp"}, {"image_file": "14_SiBangkawarah.webp"}, {"image_file": "15_SiBangkawarah.webp"},
+        {"image_file": "16_SiBangkawarah.webp"}, {"image_file": "17_SiBangkawarah.webp"}, {"image_file": "18_SiBangkawarah.webp"}, {"image_file": "19_SiBangkawarah.webp"}, {"image_file": "20_SiBangkawarah.webp"}		
+      ]
+    },{
+      "identifier": "5",
+      "name": "Si Bangkawarah 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_SiBangkawarah2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_SiBangkawarah2.webp"}, {"image_file": "02_SiBangkawarah2.webp"}, {"image_file": "03_SiBangkawarah2.webp"}, {"image_file": "04_SiBangkawarah2.webp"}, {"image_file": "05_SiBangkawarah2.webp"},
+        {"image_file": "06_SiBangkawarah2.webp"}, {"image_file": "07_SiBangkawarah2.webp"}, {"image_file": "08_SiBangkawarah2.webp"}, {"image_file": "09_SiBangkawarah2.webp"}, {"image_file": "10_SiBangkawarah2.webp"},
+        {"image_file": "11_SiBangkawarah2.webp"}, {"image_file": "12_SiBangkawarah2.webp"}, {"image_file": "13_SiBangkawarah2.webp"}, {"image_file": "14_SiBangkawarah2.webp"}, {"image_file": "15_SiBangkawarah2.webp"},
+        {"image_file": "16_SiBangkawarah2.webp"}, {"image_file": "17_SiBangkawarah2.webp"}, {"image_file": "18_SiBangkawarah2.webp"}, {"image_file": "19_SiBangkawarah2.webp"}, {"image_file": "20_SiBangkawarah2.webp"},
+		{"image_file": "21_SiBangkawarah2.webp"}
+      ]
+    },{
+      "identifier": "6",
+      "name": "Doodle",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Doodle.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Doodle.webp"}, {"image_file": "02_Doodle.webp"}, {"image_file": "03_Doodle.webp"}, {"image_file": "04_Doodle.webp"}, {"image_file": "05_Doodle.webp"},
+        {"image_file": "06_Doodle.webp"}, {"image_file": "07_Doodle.webp"}, {"image_file": "08_Doodle.webp"}, {"image_file": "09_Doodle.webp"}, {"image_file": "10_Doodle.webp"},
+        {"image_file": "11_Doodle.webp"}, {"image_file": "12_Doodle.webp"}, {"image_file": "13_Doodle.webp"}, {"image_file": "14_Doodle.webp"}, {"image_file": "15_Doodle.webp"},
+        {"image_file": "16_Doodle.webp"}, {"image_file": "17_Doodle.webp"}, {"image_file": "18_Doodle.webp"}, {"image_file": "19_Doodle.webp"}, {"image_file": "20_Doodle.webp"}		
+      ]
+    },{
+      "identifier": "7",
+      "name": "Doodle 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Doodle2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Doodle2.webp"}, {"image_file": "02_Doodle2.webp"}, {"image_file": "03_Doodle2.webp"}, {"image_file": "04_Doodle2.webp"}, {"image_file": "05_Doodle2.webp"},
+        {"image_file": "06_Doodle2.webp"}, {"image_file": "07_Doodle2.webp"}, {"image_file": "08_Doodle2.webp"}, {"image_file": "09_Doodle2.webp"}, {"image_file": "10_Doodle2.webp"},
+        {"image_file": "11_Doodle2.webp"}, {"image_file": "12_Doodle2.webp"}, {"image_file": "13_Doodle2.webp"}, {"image_file": "14_Doodle2.webp"}, {"image_file": "15_Doodle2.webp"},
+        {"image_file": "16_Doodle2.webp"}, {"image_file": "17_Doodle2.webp"}, {"image_file": "18_Doodle2.webp"}, {"image_file": "19_Doodle2.webp"}, {"image_file": "20_Doodle2.webp"}		
+      ]
+    },{
+      "identifier": "8",
+      "name": "Anak Gahol",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakGahol.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakGahol.webp"}, {"image_file": "02_AnakGahol.webp"}, {"image_file": "03_AnakGahol.webp"}, {"image_file": "04_AnakGahol.webp"}, {"image_file": "05_AnakGahol.webp"},
+        {"image_file": "06_AnakGahol.webp"}, {"image_file": "07_AnakGahol.webp"}, {"image_file": "08_AnakGahol.webp"}, {"image_file": "09_AnakGahol.webp"}, {"image_file": "10_AnakGahol.webp"},
+        {"image_file": "11_AnakGahol.webp"}, {"image_file": "12_AnakGahol.webp"}, {"image_file": "13_AnakGahol.webp"}, {"image_file": "14_AnakGahol.webp"}, {"image_file": "15_AnakGahol.webp"},
+        {"image_file": "16_AnakGahol.webp"}, {"image_file": "17_AnakGahol.webp"}, {"image_file": "18_AnakGahol.webp"}, {"image_file": "19_AnakGahol.webp"}, {"image_file": "20_AnakGahol.webp"}
+      ]
+    },{
+      "identifier": "9",
+      "name": "Anak Gahol 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakGahol2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakGahol2.webp"}, {"image_file": "02_AnakGahol2.webp"}, {"image_file": "03_AnakGahol2.webp"}, {"image_file": "04_AnakGahol2.webp"}, {"image_file": "05_AnakGahol2.webp"},
+        {"image_file": "06_AnakGahol2.webp"}, {"image_file": "07_AnakGahol2.webp"}, {"image_file": "08_AnakGahol2.webp"}, {"image_file": "09_AnakGahol2.webp"}, {"image_file": "10_AnakGahol2.webp"},
+        {"image_file": "11_AnakGahol2.webp"}, {"image_file": "12_AnakGahol2.webp"}, {"image_file": "13_AnakGahol2.webp"}, {"image_file": "14_AnakGahol2.webp"}, {"image_file": "15_AnakGahol2.webp"},
+        {"image_file": "16_AnakGahol2.webp"}, {"image_file": "17_AnakGahol2.webp"}, {"image_file": "18_AnakGahol2.webp"}, {"image_file": "19_AnakGahol2.webp"}, {"image_file": "20_AnakGahol2.webp"}
+      ]
+    },{
+      "identifier": "10",
+      "name": "Anak Kost",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakKost.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakKost.webp"}, {"image_file": "02_AnakKost.webp"}, {"image_file": "03_AnakKost.webp"}, {"image_file": "04_AnakKost.webp"}, {"image_file": "05_AnakKost.webp"},
+        {"image_file": "06_AnakKost.webp"}, {"image_file": "07_AnakKost.webp"}, {"image_file": "08_AnakKost.webp"}, {"image_file": "09_AnakKost.webp"}, {"image_file": "10_AnakKost.webp"},
+        {"image_file": "11_AnakKost.webp"}, {"image_file": "12_AnakKost.webp"}, {"image_file": "13_AnakKost.webp"}, {"image_file": "14_AnakKost.webp"}, {"image_file": "15_AnakKost.webp"},
+        {"image_file": "16_AnakKost.webp"}, {"image_file": "17_AnakKost.webp"}, {"image_file": "18_AnakKost.webp"}, {"image_file": "19_AnakKost.webp"}, {"image_file": "20_AnakKost.webp"}
+      ]
+    },{
+      "identifier": "11",
+      "name": "Anak Kost 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakKost2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakKost2.webp"}, {"image_file": "02_AnakKost2.webp"}, {"image_file": "03_AnakKost2.webp"}, {"image_file": "04_AnakKost2.webp"}, {"image_file": "05_AnakKost2.webp"},
+        {"image_file": "06_AnakKost2.webp"}, {"image_file": "07_AnakKost2.webp"}, {"image_file": "08_AnakKost2.webp"}, {"image_file": "09_AnakKost2.webp"}, {"image_file": "10_AnakKost2.webp"},
+        {"image_file": "11_AnakKost2.webp"}, {"image_file": "12_AnakKost2.webp"}, {"image_file": "13_AnakKost2.webp"}, {"image_file": "14_AnakKost2.webp"}, {"image_file": "15_AnakKost2.webp"},
+        {"image_file": "16_AnakKost2.webp"}, {"image_file": "17_AnakKost2.webp"}, {"image_file": "18_AnakKost2.webp"}, {"image_file": "19_AnakKost2.webp"}, {"image_file": "20_AnakKost2.webp"}
+      ]
+    },{
+      "identifier": "12",
+      "name": "Anak Yimyam",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakYimyam.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakYimyam.webp"}, {"image_file": "02_AnakYimyam.webp"}, {"image_file": "03_AnakYimyam.webp"}, {"image_file": "04_AnakYimyam.webp"}, {"image_file": "05_AnakYimyam.webp"},
+        {"image_file": "06_AnakYimyam.webp"}, {"image_file": "07_AnakYimyam.webp"}, {"image_file": "08_AnakYimyam.webp"}, {"image_file": "09_AnakYimyam.webp"}, {"image_file": "10_AnakYimyam.webp"},
+        {"image_file": "11_AnakYimyam.webp"}, {"image_file": "12_AnakYimyam.webp"}, {"image_file": "13_AnakYimyam.webp"}, {"image_file": "14_AnakYimyam.webp"}, {"image_file": "15_AnakYimyam.webp"},
+        {"image_file": "16_AnakYimyam.webp"}, {"image_file": "17_AnakYimyam.webp"}, {"image_file": "18_AnakYimyam.webp"}, {"image_file": "19_AnakYimyam.webp"}, {"image_file": "20_AnakYimyam.webp"}
+      ]
+    },{
+      "identifier": "13",
+      "name": "Anak Yimyam 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AnakYimyam2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AnakYimyam2.webp"}, {"image_file": "02_AnakYimyam2.webp"}, {"image_file": "03_AnakYimyam2.webp"}, {"image_file": "04_AnakYimyam2.webp"}, {"image_file": "05_AnakYimyam2.webp"},
+        {"image_file": "06_AnakYimyam2.webp"}, {"image_file": "07_AnakYimyam2.webp"}, {"image_file": "08_AnakYimyam2.webp"}, {"image_file": "09_AnakYimyam2.webp"}, {"image_file": "10_AnakYimyam2.webp"},
+        {"image_file": "11_AnakYimyam2.webp"}, {"image_file": "12_AnakYimyam2.webp"}, {"image_file": "13_AnakYimyam2.webp"}, {"image_file": "14_AnakYimyam2.webp"}, {"image_file": "15_AnakYimyam2.webp"},
+        {"image_file": "16_AnakYimyam2.webp"}, {"image_file": "17_AnakYimyam2.webp"}, {"image_file": "18_AnakYimyam2.webp"}, {"image_file": "19_AnakYimyam2.webp"}, {"image_file": "20_AnakYimyam2.webp"}
+      ]
+    },{
+      "identifier": "14",
+      "name": "Kekinian",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Kekinian.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Kekinian.webp"}, {"image_file": "02_Kekinian.webp"}, {"image_file": "03_Kekinian.webp"}, {"image_file": "04_Kekinian.webp"}, {"image_file": "05_Kekinian.webp"},
+        {"image_file": "06_Kekinian.webp"}, {"image_file": "07_Kekinian.webp"}, {"image_file": "08_Kekinian.webp"}, {"image_file": "09_Kekinian.webp"}, {"image_file": "10_Kekinian.webp"},
+        {"image_file": "11_Kekinian.webp"}, {"image_file": "12_Kekinian.webp"}, {"image_file": "13_Kekinian.webp"}, {"image_file": "14_Kekinian.webp"}, {"image_file": "15_Kekinian.webp"},
+        {"image_file": "16_Kekinian.webp"}, {"image_file": "17_Kekinian.webp"}, {"image_file": "18_Kekinian.webp"}, {"image_file": "19_Kekinian.webp"}, {"image_file": "20_Kekinian.webp"}
+      ]
+    },{
+      "identifier": "15",
+      "name": "Kekinian 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Kekinian2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Kekinian2.webp"}, {"image_file": "02_Kekinian2.webp"}, {"image_file": "03_Kekinian2.webp"}, {"image_file": "04_Kekinian2.webp"}, {"image_file": "05_Kekinian2.webp"},
+        {"image_file": "06_Kekinian2.webp"}, {"image_file": "07_Kekinian2.webp"}, {"image_file": "08_Kekinian2.webp"}, {"image_file": "09_Kekinian2.webp"}, {"image_file": "10_Kekinian2.webp"},
+        {"image_file": "11_Kekinian2.webp"}, {"image_file": "12_Kekinian2.webp"}, {"image_file": "13_Kekinian2.webp"}, {"image_file": "14_Kekinian2.webp"}, {"image_file": "15_Kekinian2.webp"},
+        {"image_file": "16_Kekinian2.webp"}, {"image_file": "17_Kekinian2.webp"}, {"image_file": "18_Kekinian2.webp"}, {"image_file": "19_Kekinian2.webp"}, {"image_file": "20_Kekinian2.webp"}
+      ]
+    },{
+      "identifier": "16",
+      "name": "Mang Jaja: Urang Bandung!",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_MangJaja.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_MangJaja.webp"}, {"image_file": "02_MangJaja.webp"}, {"image_file": "03_MangJaja.webp"}, {"image_file": "04_MangJaja.webp"}, {"image_file": "05_MangJaja.webp"},
+        {"image_file": "06_MangJaja.webp"}, {"image_file": "07_MangJaja.webp"}, {"image_file": "08_MangJaja.webp"}, {"image_file": "09_MangJaja.webp"}, {"image_file": "10_MangJaja.webp"},
+        {"image_file": "11_MangJaja.webp"}, {"image_file": "12_MangJaja.webp"}, {"image_file": "13_MangJaja.webp"}, {"image_file": "14_MangJaja.webp"}, {"image_file": "15_MangJaja.webp"},
+        {"image_file": "16_MangJaja.webp"}, {"image_file": "17_MangJaja.webp"}, {"image_file": "18_MangJaja.webp"}, {"image_file": "19_MangJaja.webp"}, {"image_file": "20_MangJaja.webp"}
+      ]
+    },{
+      "identifier": "17",
+      "name": "Mang Jaja: Urang Bandung! 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_MangJaja2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_MangJaja2.webp"}, {"image_file": "02_MangJaja2.webp"}, {"image_file": "03_MangJaja2.webp"}, {"image_file": "04_MangJaja2.webp"}, {"image_file": "05_MangJaja2.webp"},
+        {"image_file": "06_MangJaja2.webp"}, {"image_file": "07_MangJaja2.webp"}, {"image_file": "08_MangJaja2.webp"}, {"image_file": "09_MangJaja2.webp"}, {"image_file": "10_MangJaja2.webp"},
+        {"image_file": "11_MangJaja2.webp"}, {"image_file": "12_MangJaja2.webp"}, {"image_file": "13_MangJaja2.webp"}, {"image_file": "14_MangJaja2.webp"}, {"image_file": "15_MangJaja2.webp"},
+        {"image_file": "16_MangJaja2.webp"}, {"image_file": "17_MangJaja2.webp"}, {"image_file": "18_MangJaja2.webp"}, {"image_file": "19_MangJaja2.webp"}, {"image_file": "20_MangJaja2.webp"}
+      ]
+    },{
+      "identifier": "18",
+      "name": "Preman Varokah",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Preman.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Preman.webp"}, {"image_file": "02_Preman.webp"}, {"image_file": "03_Preman.webp"}, {"image_file": "04_Preman.webp"}, {"image_file": "05_Preman.webp"},
+        {"image_file": "06_Preman.webp"}, {"image_file": "07_Preman.webp"}, {"image_file": "08_Preman.webp"}, {"image_file": "09_Preman.webp"}, {"image_file": "10_Preman.webp"},
+        {"image_file": "11_Preman.webp"}, {"image_file": "12_Preman.webp"}, {"image_file": "13_Preman.webp"}, {"image_file": "14_Preman.webp"}, {"image_file": "15_Preman.webp"},
+        {"image_file": "16_Preman.webp"}, {"image_file": "17_Preman.webp"}, {"image_file": "18_Preman.webp"}, {"image_file": "19_Preman.webp"}, {"image_file": "20_Preman.webp"},
+        {"image_file": "21_Preman.webp"}, {"image_file": "22_Preman.webp"}, {"image_file": "23_Preman.webp"}, {"image_file": "24_Preman.webp"}, {"image_file": "25_Preman.webp"},
+        {"image_file": "26_Preman.webp"}, {"image_file": "27_Preman.webp"}, {"image_file": "28_Preman.webp"}, {"image_file": "29_Preman.webp"}, {"image_file": "30_Preman.webp"}
+      ]
+    },{
+      "identifier": "19",
+      "name": "Preman Varokah 2",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Preman2.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Preman2.webp"}, {"image_file": "02_Preman2.webp"}, {"image_file": "03_Preman2.webp"}, {"image_file": "04_Preman2.webp"}, {"image_file": "05_Preman2.webp"},
+        {"image_file": "06_Preman2.webp"}, {"image_file": "07_Preman2.webp"}, {"image_file": "08_Preman2.webp"}, {"image_file": "09_Preman2.webp"}, {"image_file": "10_Preman2.webp"},
+        {"image_file": "11_Preman2.webp"}, {"image_file": "12_Preman2.webp"}, {"image_file": "13_Preman2.webp"}, {"image_file": "14_Preman2.webp"}, {"image_file": "15_Preman2.webp"},
+        {"image_file": "16_Preman2.webp"}, {"image_file": "17_Preman2.webp"}, {"image_file": "18_Preman2.webp"}, {"image_file": "19_Preman2.webp"}, {"image_file": "20_Preman2.webp"},
+        {"image_file": "21_Preman2.webp"}, {"image_file": "22_Preman2.webp"}, {"image_file": "23_Preman2.webp"}, {"image_file": "24_Preman2.webp"}, {"image_file": "25_Preman2.webp"},
+        {"image_file": "26_Preman2.webp"}, {"image_file": "27_Preman2.webp"}, {"image_file": "28_Preman2.webp"}, {"image_file": "29_Preman2.webp"}, {"image_file": "30_Preman2.webp"}
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Preman Varokah 3",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Preman3.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Preman3.webp"}, {"image_file": "02_Preman3.webp"}, {"image_file": "03_Preman3.webp"}, {"image_file": "04_Preman3.webp"}, {"image_file": "05_Preman3.webp"},
+        {"image_file": "06_Preman3.webp"}, {"image_file": "07_Preman3.webp"}, {"image_file": "08_Preman3.webp"}, {"image_file": "09_Preman3.webp"}, {"image_file": "10_Preman3.webp"},
+        {"image_file": "11_Preman3.webp"}, {"image_file": "12_Preman3.webp"}, {"image_file": "13_Preman3.webp"}, {"image_file": "14_Preman3.webp"}, {"image_file": "15_Preman3.webp"},
+        {"image_file": "16_Preman3.webp"}, {"image_file": "17_Preman3.webp"}, {"image_file": "18_Preman3.webp"}, {"image_file": "19_Preman3.webp"}, {"image_file": "20_Preman3.webp"}
+      ]
+    },{
+      "identifier": "21",
+      "name": "Avengers: Endgame",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AvengersEG.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AvengersEG.webp"}, {"image_file": "02_AvengersEG.webp"}, {"image_file": "03_AvengersEG.webp"}, {"image_file": "04_AvengersEG.webp"}, {"image_file": "05_AvengersEG.webp"},
+        {"image_file": "06_AvengersEG.webp"}, {"image_file": "07_AvengersEG.webp"}, {"image_file": "08_AvengersEG.webp"}, {"image_file": "09_AvengersEG.webp"}, {"image_file": "10_AvengersEG.webp"},
+        {"image_file": "11_AvengersEG.webp"}, {"image_file": "12_AvengersEG.webp"}, {"image_file": "13_AvengersEG.webp"}, {"image_file": "14_AvengersEG.webp"}, {"image_file": "15_AvengersEG.webp"},
+        {"image_file": "16_AvengersEG.webp"}, {"image_file": "17_AvengersEG.webp"}, {"image_file": "18_AvengersEG.webp"}, {"image_file": "19_AvengersEG.webp"}, {"image_file": "20_AvengersEG.webp"},
+		{"image_file": "21_AvengersEG.webp"}, {"image_file": "22_AvengersEG.webp"}, {"image_file": "23_AvengersEG.webp"}, {"image_file": "24_AvengersEG.webp"}
+      ]
+    },{
+      "identifier": "22",
+      "name": "Kata Cinta Nora Alexandra",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_Nora.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_Nora.webp"}, {"image_file": "02_Nora.webp"}, {"image_file": "03_Nora.webp"}, {"image_file": "04_Nora.webp"}, {"image_file": "05_Nora.webp"},
+        {"image_file": "06_Nora.webp"}, {"image_file": "07_Nora.webp"}, {"image_file": "08_Nora.webp"}
+      ]
+    },{
+      "identifier": "23",
+      "name": "Si Imut Ayuonyes",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_AyuOnyes.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_AyuOnyes.webp"}, {"image_file": "02_AyuOnyes.webp"}, {"image_file": "03_AyuOnyes.webp"}, {"image_file": "04_AyuOnyes.webp"}, {"image_file": "05_AyuOnyes.webp"},
+        {"image_file": "06_AyuOnyes.webp"}, {"image_file": "07_AyuOnyes.webp"}, {"image_file": "08_AyuOnyes.webp"}
+      ]
+    },{
+      "identifier": "24",
+      "name": "Emotional Handsome",
+      "publisher": "Rygent",
+      "tray_image_file": "tray_EmotionalHandsome.png",
+      "publisher_email":"",
+      "publisher_website": "https://www.whatsapp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "01_EmotionalHandsome.webp"}, {"image_file": "02_EmotionalHandsome.webp"}, {"image_file": "03_EmotionalHandsome.webp"}, {"image_file": "04_EmotionalHandsome.webp"}, {"image_file": "05_EmotionalHandsome.webp"},
+        {"image_file": "06_EmotionalHandsome.webp"}, {"image_file": "07_EmotionalHandsome.webp"}, {"image_file": "08_EmotionalHandsome.webp"}
+      ]
+    }
+  ]
+}
