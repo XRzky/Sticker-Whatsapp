@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/xrzky/Sticker-Whatsapp.svg?branch=stickerapp)](https://travis-ci.org/xrzky/Sticker-Whatsapp)
+![AppVeyor](https://img.shields.io/appveyor/ci/xrzky/sticker-whatsapp?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/xrzky/Sticker-Whatsapp?style=flat-square)
 
 # Android Stickers Apps for WhatsApp
