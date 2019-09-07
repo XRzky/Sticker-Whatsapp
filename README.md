@@ -1,6 +1,7 @@
 ![AppVeyor](https://img.shields.io/appveyor/ci/xrzky/sticker-whatsapp?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/xrzky/Sticker-Whatsapp?style=flat-square)
 ![GitHub All Releases](https://img.shields.io/github/downloads/xrzky/Sticker-Whatsapp/total?style=flat-square)
+![GitHub](https://img.shields.io/github/license/xrzky/Sticker-Whatsapp?style=flat-square)
 
 # Android Stickers Apps for WhatsApp
 
