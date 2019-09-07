@@ -1,0 +1,80 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- This is the app's name, translators please do not translate and put in the same text as English version. Developers can consider putting in their own translation, this string must be changed before publishing -->
+    <string name="app_name">Stiker WhatsApp</string>
+    <!-- Content description for the sticker pack tray image -->
+    <string name="tray_image_content_description">Gambar paket stiker</string>
+    <!-- the title of info button in the menu that takes the user to more information about that pack showing publisher website and so on -->
+    <string name="more_info_button">Info lebih lanjut tentang paket stiker</string>
+    <!-- Text to be shown on the button that user can click to add the sticker pack to WhatsApp -->
+    <string name="add_to_whatsapp">Tambahkan</string>
+    <!-- Content Description for the plus button shown on sticker pack list, that allows user to add sticker pack to WhatsApp -->
+    <string name="add_button_content_description">Tambahkan paket stiker ke WhatsApp</string>
+    <!-- Title of the sticker pack list activity page in case the app contains multiple sticker packs, the singular string will be used when there is only one pack in the app -->
+    <plurals name="title_activity_sticker_packs_list">
+        <item quantity="one">@string/app_name</item>
+        <item quantity="other">@string/app_name</item>
+    </plurals>
+    <!-- Title of the sticker pack page when there are multiple sticker packs in the app -->
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detail stiker</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Sticker Pack</string>
+    <!-- Title of the sticker pack info page which displays the webpage, email and privacy policy of the sticker pack -->
+    <string name="title_activity_sticker_pack_info">Informasi</string>
+    <!-- Text of button that allows user to click to go to the webpage of the publisher -->
+    <string name="view_webpage">Lihat halaman web</string>
+    <!-- Text of button that allows user to click to send an email -->
+    <string name="send_email">Kirim email</string>
+    <!-- Text of button that allows user to click to go to the privacy policy website -->
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <!-- Text of button that allows user to click to go to the license agreement website -->
+    <string name="license_agreement">Perjanjian lisensi</string>
+    <!-- Text next to the tray icon that indicates the tray icon -->
+    <string name="info_screen_tray_icon">Ikon</string>
+    <!-- Text shown to the user instead of Add to WhatsApp button if the pack is already added to WhatsApp -->
+    <string name="details_pack_already_added">Paket stiker ditambahkan ke WhatsApp</string>
+    <!-- Title in the intent chooser that shows when user has multiple email client installed -->
+    <string name="info_send_email_to_prompt">Kirim email dengan</string>
+    <!-- Message to show in a dialog when user fails to add sticker pack -->
+    <string name="add_pack_fail_prompt_update_whatsapp">Paket stiker tidak ditambahkan. Jika ingin menambahkannya, pastikan Anda memperbarui ke versi terbaru WhatsApp.</string>
+    <!-- Text in dialog button when a user has an old version of WhatsApp that prevents them from adding the sticker pack, clicking on it will take user to play store -->
+    <string name="add_pack_fail_prompt_update_play_link">Perbarui</string>
+    <!-- Toast text when we could not take user to play store because they don't have Google Play app installed -->
+    <string name="cannot_find_play_store">Google Play tidak diinstal pada peragkat.</string>
+    <string name="about">Tentang</string>
+    <string name="share_text">Ingin stiker yang luar biasa ini untuk pesan WhatsApp kamu? Unduh sekarang aplikasi ini &amp; bagikan ke teman kamu : https://bit.ly/2OnaA6R</string>
+	<string name="navigation_drawer_open">Buka navigasi</string>
+    <string name="navigation_drawer_close">Tutup navigasi</string>
+    <string name="nav_header_title">@string/app_name</string>
+    <string name="nav_header_subtitle">Stiker LINE untuk WhatsApp</string>
+    <string name="nav_header_desc">Header navigasi</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_feedback">Masukkan</string>
+    <string name="menu_about">Tentang</string>
+    <string name="menu_whats_new">Log perubahan</string>
+    <string name="about_app">Tentang aplikasi</string>
+    <string name="about_dev">Tentang pengembang</string>
+    <string name="dev">© 2019 Rylabs Inc.</string>
+    <string name="version">Versi</string>
+    <string name="version_name">2.0.0</string>
+    <string name="share">Bagikan aplikasi ini</string>
+    <string name="share_desc">Tekan untuk bagikan</string>
+    <string name="update">Perbarui</string>
+    <string name="update_desc">Tekan untuk perbarui</string>
+    <string name="med_tel">Telegram</string>
+    <string name="telegram">Tekan untuk memulai obrolan</string>
+    <string name="contact_us">Hubungi kami</string>
+    <string name="contact_us_desc">Tekan untuk menghubungi kami</string>
+    <string name="feedback">Masukkan</string>
+    <string name="feedback_hint">Masukkan kamu membantu kami untuk meningkatkan. Kami akan menghubungi kamu melalui email yang kamu masukkan di sini, jika memerlukan tindakan lebih lanjut.</string>
+    <string name="feedback_name">Nama</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_msg">Saran atau masukkan</string>
+    <string name="feedback_submit">Kirim</string>
+    <string name="feedback_error">Ini wajib diisi!</string>
+    <string name="feedback_toast">Sudah dikirim!</string>
+    <string name="changelog_full_title">Log perubahan</string>
+    <string name="changelog_title">Apa yang baru</string>
+    <string name="changelog_ok_button">OKE</string>
+    <string name="changelog_show_full">Lainnya…</string>
+
+    <string name="changelog_version_format">Versi <xliff:g id="version_name">%s</xliff:g></string>
+</resources>
