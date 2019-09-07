@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xrzky/Sticker-Whatsapp.svg?branch=stickerapp)](https://travis-ci.org/xrzky/Sticker-Whatsapp)
+
 # Android Stickers Apps for WhatsApp
 
 ## Overview
