@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974654558163",
+    "firebase_url": "https://feedback-sticker.firebaseio.com",
+    "project_id": "feedback-sticker",
+    "storage_bucket": "feedback-sticker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974654558163:android:92dfa9e12c5f3d72",
+        "android_client_info": {
+          "package_name": "com.rylabs.stickerwaline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974654558163-88sg88mcm7q67mnkjnfsadd39idss756.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfs-ia3XA7-NN5YBLQxlfgwCv1i0fvRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974654558163-88sg88mcm7q67mnkjnfsadd39idss756.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
